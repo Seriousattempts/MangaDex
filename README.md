@@ -10,6 +10,10 @@ Your MangaDex
 
 You get your personal client id and secret under API Clients in Settings https://mangadex.org/settings by creating them https://api.mangadex.org/docs/02-authentication/personal-clients/
 
+Have python with the following installed:
+- pandas
+- requests
+
 
 # 1. Run *Export libraries from MangaDex.py*
 

@@ -1,5 +1,7 @@
 # Exporting your MangaDex library
 
+EXE versions have been added. If you want to see how the code works and how to run it, read below:
+
 ## Prerequisites
 
 Your MangaDex

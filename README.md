@@ -50,7 +50,7 @@ The following sites use .xml to import:
 - Kitsu: https://kitsu.app/settings/imports
 - MAL: https://myanimelist.net/import.php
 
-For Mangaupdates, you run *Mangaupdates MD List.py* and use your normal login details.
+For [Mangaupdates](https://www.mangaupdates.com/), you run *Mangaupdates MD List.py* and use your normal login details.
 
 
 # Don't forget to support the Author/Artist
